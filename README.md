@@ -6,11 +6,18 @@ Sistema de validación de códigos con impresión automática de tickets usando 
 
 ## Estado Actual
 
-- **Funcionalidad principal:** Validación de códigos de estudiantes, control de horarios, impresión automática de tickets, integración con Google Sheets y gestión de imágenes.
-- **Frontend:** Página web para escaneo/ingreso de código, muestra nombre, tipo de alimentación, imagen y alertas.
-- **Backend:** Servidor Node.js con endpoints REST, integración con Google Sheets, impresión ESC/POS y caché de imágenes.
-- **Automatización:** Scripts `.bat` para inicio automático y control de servicios.
-- **Modo de prueba:** Permite simular impresión sin enviar a la impresora.
+- **Validación de códigos de estudiantes** en tiempo real contra Google Sheets.
+- **Control de horarios** para permitir o denegar el reclamo de alimentación según el tipo (refrigerio, almuerzo, ambos) y la hora del día.
+- **Prevención de reclamos duplicados**: Un estudiante no puede reclamar más de una vez por día y tipo.
+- **Integración con Google Sheets** para la gestión de estudiantes, tipos de alimentación y registro de reclamos.
+- **Gestión y caché de imágenes**: Descarga, redimensiona y almacena imágenes de Google Drive localmente para mejorar el rendimiento.
+- **Frontend web**: Permite escanear o ingresar el código, muestra nombre, tipo de alimentación, imagen y alertas visuales con SweetAlert2.
+- **Impresión automática de tickets** usando comandos ESC/POS, compatible con impresoras térmicas compartidas en Windows (ejemplo: XP-80C, Zebra ZD230).
+- **Palabra del día**: Cada ticket impreso incluye una palabra aleatoria relacionada con alimentos, diferente cada día.
+- **Modo de prueba**: Permite simular la impresión de tickets sin enviarlos físicamente a la impresora, útil para desarrollo y pruebas.
+- **Automatización en Windows**: Scripts `.bat` para iniciar el servidor, crear acceso directo de inicio automático y desactivar el inicio automático, incluyendo cierre de procesos relacionados.
+- **Endpoints REST**: Para validación, impresión, consulta de estado y gestión de imágenes.
+- **Mensajes y alertas visuales**: Notificaciones claras para errores, advertencias y confirmaciones tanto en frontend como backend.
 
 ---
 
