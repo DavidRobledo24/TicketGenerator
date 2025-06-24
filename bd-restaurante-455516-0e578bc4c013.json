@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bd-restaurante-455516",
+  "private_key_id": "0e578bc4c0139c14bb6403a0ab2ad030308fb7f3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDUypVP0pX/6m1k\nOtpHL3HmZVFAz7YuCs4mrMkMDE3OKztkVD1sOLUInXISeuZwTckuAXKWRuBH2mFP\niz3e4ZJIQOgn91Cg5gzDn2nOXIOKTyQTSpajpcfG6hsc/KT4UXMiwlTqpUZlGiEY\nG53B4o2zYGVH0fkST8wKFXfmID8ZHZK8sQU58sD8kQWw57hbMKUQr78pqv7FsLSs\nRRh0YQeFOqT50P3Tu3pAe4Uq6DHdWDfcMIGfaGbJfTAhR9IF2gRKpqRzcThNFWtg\n6O3iFN3PV3pNmjqHpL7SNN7ZDWgnBjwEiGIOhcj5BsRaf3nT271yUDa9OJpa5Fs1\ndZ2XZh67AgMBAAECggEAUy4vyMi+hxAKHASff/Utdo1DgmzPv9bMeDTR0Gpc3ctr\nh5AghJX0On5lcZDmVJ8rldbOBq2FDcFxiakaEe6mgqUQu1LDi2nyMmQ19YuXhfDi\n3sGo+iabXgf0elPOXx1jvwItNJ5P0sSwjB57gCeCEc0MOlN7pCtaTNTQjj4rvDJr\nArgUeaHPTZnvpMW1qHZvoiUQlj+DGwZPsz2SG1iKenYmb31ChPVw2Lee2qleVQ8a\nNGAF5iDQqzs3Ak+XSjpndMl+b4bNNX/MSLeGloQ7X2HiXSpynSbUVo2f9D4txEh8\nt4zjIvkcES2a/yONJDGByjEC7qA11miqpxbtxaaZjQKBgQD2kH18cNndN8sj+YI7\nAWulRBtE2ms0aeAVlBeJZmCQGtjheubqsRWQkjIBkoeqPihE/N21t0cdIFDdv1+I\n6/KzV58njDXJJZ3kmj/ak9ZxZde0I4+h+v4yyaUrF+e5mOLPC6Co0AA2VGpk9cvT\nrG4DAp0/M0g/QsN25NQJTepgXwKBgQDc7zq9/rXsAOrIV7eQ56GNymywb/RdzoXa\nblkVeTAZSyXu0/seCk+jGajvMxunlFc+INGd+8I6fIBnVQF00462oQJPNghooYDu\njQYlJbcFvsKLGfW7sWohegPEqeCvxlSKSSVpg2O4zXRf8g3bJfVM6yHCucIGUb8u\njcLckGNvJQKBgEnTc69Z/vHM7edEoyjVwQyH+v4/xA+6j90GLZH3dHxRfZTt/sxQ\n35sdGxn7bOGdoOMfL6dkTEe9UFlFHu7Zbx8h4kauJcCnocI8KVhiIbhsfQy0BSLE\nC27bj7f6fWjGDUtfOOiy9w1Nc1nteu1TWNFP7BNrYHuImwwzcgWjLcVTAoGAdRVG\nsSeJ6280/UUXH/DQ+d57qSk7fHcVEoQGK84UgmMD0ESAwRO/znSrxU/1aOLBNUiZ\nLbsc3HfcaGZxJiNzby92lNnSrPhh5onP5uHM03ubh7ITOwuzbdhGpPNOAnj9lmdb\nL0aVE3u2H56cXzYHgGLfel2NCGJMCfTQfqj6OQ0CgYEAiB7XSZZp4Ooi+DdyUFib\nqfWZSL4rcCfWzYggO1Umoi6Lq7+/JoDyoaA1h/6cUGa7d1NkSy7U7JwIh/9K68vQ\nOkaRVILPy5Oq51AdrIj2AYORHYOz3OWIu3MkjRtzkKJyM1PK4aYXQchtDAil0xed\nPxFLXcCGU45uQT/szHXzFMc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "db-restaurante@bd-restaurante-455516.iam.gserviceaccount.com",
+  "client_id": "115987991142834527018",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/db-restaurante%40bd-restaurante-455516.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
